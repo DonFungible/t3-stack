@@ -1,4 +1,5 @@
 import "~/styles/globals.css";
+import "@uploadthing/react/styles.css";
 
 import { GeistSans } from "geist/font/sans";
 import { ClerkProvider } from "@clerk/nextjs";
